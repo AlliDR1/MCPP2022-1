@@ -39,11 +39,10 @@ Igualmente se editaron los plot geográficos para que los datos fueran facilment
 
 ## 5. Resultados
 
-![arbolado_bogota_verdes.png](attachment:arbolado_bogota_verdes.png)
+![arbolado_bogota_verdes](https://user-images.githubusercontent.com/68167056/170233336-f4072eeb-f684-462c-8c5f-be89ebd60e7e.png)
+![arborizacion_pc_verde](https://user-images.githubusercontent.com/68167056/170233407-4dc3a076-322f-41d4-8cb5-a1258b6de250.png)
+![GIF_arborizacion](https://user-images.githubusercontent.com/68167056/170233488-1184fbff-f970-461c-bbac-36519dbc377f.gif)
 
-![arborizacion_pc_verde.png](attachment:arborizacion_pc_verde.png)
-
-![GIF_arborizacion.gif](attachment:GIF_arborizacion.gif)
 
 ## 6. Conclusiones y oportunidades de mejora
 
